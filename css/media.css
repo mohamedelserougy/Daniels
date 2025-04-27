@@ -1,0 +1,9 @@
+@media (max-width:992px) {
+    .client .image{
+        width: 15%;
+    }
+
+    .aboutme .image{
+        width: 100% !important;
+    }
+}
